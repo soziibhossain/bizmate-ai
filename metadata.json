@@ -1,0 +1,6 @@
+{
+  "name": "BizMate AI",
+  "description": "আপনার ব্যবসার AI সহকারী - Smart AI Business Assistant for Entrepreneurs",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
